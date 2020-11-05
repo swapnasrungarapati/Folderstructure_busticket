@@ -1,0 +1,10 @@
+paytm\starter\bean\Lists.class
+paytm\starter\model\Car_.class
+paytm\starter\bean\InitAppMB.class
+paytm\starter\infra\persistence\EntityManagerProducer.class
+paytm\starter\infra\security\LogonMB.class
+paytm\starter\bean\CarListMB.class
+paytm\starter\model\Car.class
+paytm\starter\service\CarRepository.class
+paytm\starter\service\CarService.class
+paytm\starter\bean\CarFormMB.class
